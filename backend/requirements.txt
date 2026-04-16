@@ -1,7 +1,7 @@
+google-genai>=1.0.0
 fastapi
 uvicorn
 python-dotenv
-google-generative-ai
 groq
 langchain
 langchain-community
