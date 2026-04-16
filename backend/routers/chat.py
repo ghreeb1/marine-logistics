@@ -27,7 +27,7 @@ OUTPUT_DIR = os.path.join(BASE_DIR, "routers", "embedding_output")
 FAISS_INDEX_PATH = os.path.join(OUTPUT_DIR, "faiss_index.bin")
 CHUNKS_PATH = os.path.join(OUTPUT_DIR, "chunks.pkl")
 
-MODEL_NAME = "intfloat/multilingual-e5-base"
+MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 QUERY_PREFIX = "query: "
 TOP_K = 3
 
