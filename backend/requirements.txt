@@ -9,3 +9,6 @@ langchain-google-genai
 langchain-groq
 faiss-cpu
 pydantic
+
+sentence-transformers
+torch --index-url https://download.pytorch.org/whl/cpu
