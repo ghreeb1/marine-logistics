@@ -7,8 +7,4 @@ langchain
 langchain-community
 langchain-google-genai
 langchain-groq
-faiss-cpu
 pydantic
---extra-index-url https://download.pytorch.org/whl/cpu
-torch
-sentence-transformers
